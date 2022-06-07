@@ -1,0 +1,2 @@
+WIFI_SSID='arduino'
+WIFI_PASSWORD='pic18f4550'
